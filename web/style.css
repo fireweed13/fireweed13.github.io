@@ -73,6 +73,12 @@ html, body {
   text-align:center;
 }
 
+.img-block2 {
+  width:90%;
+  margin-top:250px;
+  text-align:center;
+}
+
 .img-block figure {
   display: inline-block;
   width:50%;

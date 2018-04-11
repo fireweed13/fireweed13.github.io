@@ -1,4 +1,4 @@
-var spacing = 10;
+var spacing = 100;
 var circleSize;
 var col1;
 var col2;
